@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Mỹ nhân của Aston Villa phô diễn kỹ năng tâng bóng ấn tượng",
+    "contentBlocks": [
+      { "type": "text", "content": "Alisha Lehmann đang tận hưởng quãng thời gian hội quân ở ĐT Thụy Sĩ và thể hiện kỹ năng tâng bóng rất ấn tượng." },
+      { "type": "image", "content": "https://bom.so/mbe09r" },
+      { "type": "text", "content": "Đây là đoạn văn bản thứ hai." },
+      { "type": "image", "content": "https://bom.so/mbe09r" },
+      { "type": "text", "content": "Đây là đoạn văn bản thứ hai." }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Danh sách tiền đạo mà Chelsea nhắm đến lại có thêm cái tên mới: Victor Boniface",
+    "contentBlocks": [
+      { "type": "text", "content": "Chelsea được cho là đang để mắt đến tiền đạo Victor Boniface của Bayer Leverkusen, như một lựa chọn để củng cố hàng công vào mùa Hè." },
+      { "type": "image", "content": "https://bom.so/jXs226" }
+    ]
+  }
+]
