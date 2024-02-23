@@ -41,7 +41,7 @@ class NewsDetailScreen extends StatelessWidget {
                   errorWidget: (context, url, error) => Icon(Icons.error),
                 );
               } else {
-                return SizedBox.shrink(); // Xử lý trường hợp không xác định
+                return SizedBox.shrink(); 
               }
             }).toList(),
           ],
